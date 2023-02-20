@@ -4,6 +4,7 @@
   "description": "A react library developed with dumi",
   "module": "docs-dist/index.js",
   "types": "docs-dist/index.d.ts",
+  "packageManager": "pnpm@7.27.0",
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
