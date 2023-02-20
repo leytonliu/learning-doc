@@ -2,8 +2,8 @@
   "name": "learning-doc",
   "version": "0.0.1",
   "description": "A react library developed with dumi",
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "module": "docs-dist/index.js",
+  "types": "docs-dist/index.d.ts",
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "files": [
-    "dist"
+    "docs-dist"
   ],
   "commitlint": {
     "extends": [
